@@ -1,9 +1,29 @@
 
 	/*font-family: font-family: 'Nunito', sans-serif;*/
 
+.logo {
+	margin-top: 50px;
+	margin-left: 50%;
+}
+
+nav {
+	margin-left: 52%;
+	font-family: 'Nunito', sans-serif;
+	text-decoration: none;
+	color: darkgreen;
 
 
+}
 
+nav:visited{
+	text-decoration: none;
+	color: darkgrey;
+}
+
+.work:hover{
+	transform: scaleY(3) scaleX(3);
+	transition: transform 2s;
+}
 
 
 
